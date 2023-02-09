@@ -32,6 +32,8 @@
 [Put answer here]
 
 ### Using a Debugger
+**For this section of the lab, copy some old code from either the _Image_ or _Data_ lab into the `gdb-debug` folder. Follow the instructions in `instructions.txt` and answer the questions below.**
+
 
 5. Take a screenshot of your breakpoint successfully working and call it `breakpoint.png`.
 
