@@ -1,0 +1,2 @@
+Copy either your functioning code from either the Image or Data lab into this directory.
+You will be using this code as the subject of your VSCode gdb debugging.
